@@ -6,3 +6,5 @@ If you haven't connected your local repository to a remote server, add the serve
 List all the branches in your repo, and also tell you what branch you're currently in:
 
 Fetch and merge changes on the remote server to your working directory:
+
+afrose 
