@@ -4,3 +4,5 @@ Note that Git strips some characters (for example trailing periods) from user.na
 If you haven't connected your local repository to a remote server, add the server to be able to push to it:
 
 List all the branches in your repo, and also tell you what branch you're currently in:
+
+sheriff basha
