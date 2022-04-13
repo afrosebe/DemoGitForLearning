@@ -7,4 +7,3 @@ List all the branches in your repo, and also tell you what branch you're current
 
 Fetch and merge changes on the remote server to your working directory:
 
-afrose 
